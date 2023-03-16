@@ -1,0 +1,255 @@
+{
+    "products": [
+        {
+            "category": "giày",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "giày cuồng nộ",
+                    "price": "300",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 2,
+                    "name": "giày bạc",
+                    "price": "100",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 3,
+                    "name": "giày cơ động",
+                    "price": "200",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                }
+                
+            ]
+        },
+        
+        {
+            "category": "giáp",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "giáp máu",
+                    "price": "700",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 2,
+                    "name": "giáp gai",
+                    "price": "1000",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 3,
+                    "name": "giáp thiên nhiên",
+                    "price": "1200",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                }
+                
+            ]
+        },
+
+        {
+            "category": "vũ khí",
+            "data": [
+                {
+                    "id": 1,
+                    "name": "đao tím",
+                    "price": "500",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 2,
+                    "name": "rìu đen",
+                    "price": "100",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                },
+
+                {
+                    "id": 3,
+                    "name": "cuồng cung",
+                    "price": "200",
+                    "size": [
+                        {
+                            "id": 1,
+                            "name": "S",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 2,
+                            "name": "M",
+                            "quantity": 200
+                        },
+
+                        {
+                            "id": 3,
+                            "name": "L",
+                            "quantity": 200
+                        }
+                    ],
+                    "desc": "Đỉnh vãi loz"
+                }
+                
+            ]
+        }
+    ]
+}
